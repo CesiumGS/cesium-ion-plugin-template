@@ -90,8 +90,6 @@ Leveraging Cesium ion and the power of 3D Tiles, even multi-gigabyte models can 
 
 Learn more at [cesium.com](https://cesium.com)
 
-**[REPLACEME]** Screeenshots - One to three screenshots go great here. Demonstrating the usage of the application and the result in ion.
-
 <p align="center">
     <img src="" width="50%" />
     
