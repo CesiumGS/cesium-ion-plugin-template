@@ -76,6 +76,7 @@ README.md               # Projects landing page. Should be readable, and work as
 -   [ ] Is installation information available on the website or somewhere else?
 -   [ ] Is a blog post in progress?
 -   [ ] Has the the addon been released to [cesium.com](https://github.com/AnalyticalGraphicsInc/cesium.com)?
+-   [ ] Check that the license has the proper year (i.e. the current year)
 
 ## ↑ **REMOVE ABOVE BEFORE RELEASE** ↑
 
